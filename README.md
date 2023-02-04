@@ -1,4 +1,4 @@
-# Software_Project
+## Software_Project
 # Implementation of a normalized spectral clustering algorithm in Software-Project Course.
 # Grades : 
 # EX1 - 100
